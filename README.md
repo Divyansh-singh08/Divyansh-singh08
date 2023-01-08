@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Divyansh-singh08
-- 👀 I’m interested in Blockchain Development & Mobile App Development(Flutter)
+- 👀 I’m interested in Blockchain Development 
 - 🌱 I’m currently learning  Blockchain and Mobile Development
 - 💞️ I’m looking to collaborate  for open-Source and InternDevelopment
 - 📫 How to reach me email = divyanshsinghhacked11@gmail.com / Phn-8479965685
