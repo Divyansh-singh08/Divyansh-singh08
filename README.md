@@ -48,6 +48,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://www.leetcode.com/divyansh08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="divyansh08" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/codiv_8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="codiv_8" height="30" width="40" /></a>
 </p>
+
 <hr>
 
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
@@ -124,6 +125,16 @@ You can click the Preview link to take a look at your changes.
   
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=divyansh-singh08&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
+<hr>
+
+<p align="left">
+📊 &nbsp; **This week I spent my time on**
+
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=Divyansh_singh08&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
+
+<!-- [![Divyansh wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Divyansh_singh08)](https://github.com/anuraghazra/github-readme-stats) --> 
+</p> 
+
 <br/><hr/>
 <h3 align="center">
     ⭐️ From <a href="https://github.com/Divyansh-singh08">Divyansh</a>
