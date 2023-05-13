@@ -2,7 +2,7 @@
 <!-- <h3 align="center">Hello there, I'm Divyansh 👋</h3> -->
 <!-- -👋 Hi, I’m @Divyansh-singh08
 - 👀 I’m interested in Blockchain Development 
-- 🌱 I’m currently learning  Blockchain and Mobile Development
+- 🌱 I’m currently learning React and FullStack Development
 - 💞️ I’m looking to collaborate  for open-Source and InternDevelopment
 - 📫 How to reach me email = divyanshsinghhacked11@gmail.com / Phn-8479965685  -->
 
